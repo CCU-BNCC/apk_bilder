@@ -11,7 +11,7 @@
 ```bash
 pkg update -y
 pkg install git -y
-git clone https://github.com/yourusername/apk_bilder
+git clone https://github.com/CCU-BNCC/apk_bilder
 cd apk_bilder
 bash install.sh
 
